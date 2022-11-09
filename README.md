@@ -17,3 +17,5 @@
 |配置管理 |  MySQL  |  5.7   |
 |前端展示  | Django & VUE |  3.8 & 3   |
 
+-getVideo(搜索关键词, 爬取视频最大页数)
+ return 获取视频列表
